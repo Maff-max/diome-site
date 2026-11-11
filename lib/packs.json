@@ -1,0 +1,382 @@
+{
+ "histoire": {
+  "label": "Histoire",
+  "steps": [
+   {
+    "title": "Préparer",
+    "instruction": "Pourquoi lis-tu cette source ? Que cherches-tu ? Formule 2 à 4 questions de lecture.",
+    "questions": [
+     "Cette source est-elle primaire ou secondaire ?",
+     "Qui en est l’auteur, à quelle date et en quel lieu a-t-elle été produite ?",
+     "Quel est le contexte, et à qui s’adresse-t-elle ?"
+    ]
+   },
+   {
+    "title": "Lire et surligner",
+    "instruction": "Lis par sections. Surligne un argument, une preuve ou un exemple.",
+    "questions": []
+   },
+   {
+    "title": "Reformuler",
+    "instruction": "Masque l’extrait et explique-le avec tes mots.",
+    "questions": []
+   },
+   {
+    "title": "Critiquer",
+    "instruction": "Quelles preuves ? Quelles limites ? Quelles objections ? Qu’y a-t-il à vérifier ?",
+    "questions": [
+     "Critique externe : le document est-il authentique ?",
+     "Critique interne : que veut montrer l’auteur ? Quels sont ses biais ?",
+     "Corroboration : quelles autres sources confirment ou contredisent ?"
+    ]
+   },
+   {
+    "title": "Fiche finale",
+    "instruction": "Classe tes notes par thème, vérifie les références, exporte.",
+    "questions": []
+   }
+  ]
+ },
+ "philosophie": {
+  "label": "Philosophie",
+  "steps": [
+   {
+    "title": "Préparer",
+    "instruction": "Quel problème ce texte cherche-t-il à résoudre ? Formule la question qu’il pose, avant de le lire en détail.",
+    "questions": [
+     "Quelle est la question, ou le problème, auquel l’auteur répond ?",
+     "Quelle thèse défend-il, et contre qui ?",
+     "Quels sont les concepts clés, et que signifient-ils ici ?"
+    ]
+   },
+   {
+    "title": "Lire et surligner",
+    "instruction": "Repère la thèse, les distinctions de concepts, les exemples et les étapes de l’argumentation. Surligne chaque mouvement du texte.",
+    "questions": []
+   },
+   {
+    "title": "Reformuler",
+    "instruction": "Reformule chaque étape de l’argument avec tes mots, comme dans une explication de texte : que dit l’auteur, et pourquoi le dit-il ?",
+    "questions": []
+   },
+   {
+    "title": "Critiquer",
+    "instruction": "Teste l’argument : les prémisses sont-elles acceptables ? La conclusion en découle-t-elle ? Quelle objection sérieuse peut-on lui adresser ?",
+    "questions": [
+     "Quelles sont les prémisses, et la conclusion s’en déduit-elle vraiment ?",
+     "Quelle objection un adversaire ferait-il ? L’auteur y répond-il ?",
+     "Quelle est la portée de la thèse, et quelles en sont les limites ?"
+    ]
+   },
+   {
+    "title": "Fiche finale",
+    "instruction": "Classe tes notes par problème et par concept. Garde pour chacun la thèse, l’argument et ta discussion.",
+    "questions": []
+   }
+  ]
+ },
+ "droit": {
+  "label": "Droit",
+  "steps": [
+   {
+    "title": "Préparer",
+    "instruction": "Quel est le type de document (arrêt, loi, article de doctrine) et que cherches-tu : une règle, une solution, une discussion ?",
+    "questions": [
+     "Quel est le document : décision de justice, texte de loi, article de doctrine ?",
+     "Quelle est la juridiction ou l’autorité, la date, et le niveau dans la hiérarchie des normes ?",
+     "Quel est le problème de droit posé ?"
+    ]
+   },
+   {
+    "title": "Lire et surligner",
+    "instruction": "Pour une décision : surligne les faits, la procédure, les prétentions des parties, le problème de droit, la solution et son motif. Pour un texte : surligne la règle, ses conditions et ses exceptions.",
+    "questions": []
+   },
+   {
+    "title": "Reformuler",
+    "instruction": "Reformule en suivant le plan de la fiche d’arrêt : faits, procédure, problème de droit, solution. Dis avec tes mots la règle qui s’en dégage.",
+    "questions": []
+   },
+   {
+    "title": "Discuter la portée",
+    "instruction": "Quelle est la portée de la solution ? Est-elle conforme à la jurisprudence ou à la loi ? Quelle critique la doctrine en fait-elle ?",
+    "questions": [
+     "Quelle est la portée de la décision : espèce ou principe ?",
+     "Confirme-t-elle ou renverse-t-elle une jurisprudence antérieure ?",
+     "La règle est-elle toujours en vigueur ? Vérifie les textes et les décisions plus récentes."
+    ]
+   },
+   {
+    "title": "Fiche finale",
+    "instruction": "Rédige ta fiche : faits, procédure, problème de droit, solution, portée. Vérifie les références et la date de chaque texte cité.",
+    "questions": []
+   }
+  ]
+ },
+ "lettres": {
+  "label": "Lettres et langues",
+  "steps": [
+   {
+    "title": "Préparer",
+    "instruction": "Qui parle, à qui, et dans quel contexte ? Formule une première impression de lecture et une question sur le texte.",
+    "questions": [
+     "Quel est le genre du texte et son contexte (auteur, époque, mouvement) ?",
+     "Quelle est ta première impression, et qu’est-ce qui te frappe ?",
+     "Quelle problématique de lecture veux-tu explorer ?"
+    ]
+   },
+   {
+    "title": "Lire et surligner",
+    "instruction": "Repère les procédés d’écriture (images, rythmes, registres, point de vue) et les idées centrales. Surligne les passages qui servent ta problématique.",
+    "questions": []
+   },
+   {
+    "title": "Reformuler",
+    "instruction": "Explique chaque passage avec tes mots : ce qu’il dit, et comment il le dit.",
+    "questions": []
+   },
+   {
+    "title": "Critiquer",
+    "instruction": "Interprète : quel effet produit le procédé ? Quelle lecture en proposes-tu, et appuie-toi sur le texte pour la défendre.",
+    "questions": [
+     "Quel procédé produit quel effet, et pourquoi ?",
+     "Ton interprétation est-elle appuyée sur des citations précises ?",
+     "Une autre lecture du passage est-elle possible ?"
+    ]
+   },
+   {
+    "title": "Fiche finale",
+    "instruction": "Organise tes notes en axes de lecture. Pour chaque axe, garde les citations et ton interprétation.",
+    "questions": []
+   }
+  ]
+ },
+ "social": {
+  "label": "Sociologie, psychologie, sciences humaines",
+  "steps": [
+   {
+    "title": "Préparer",
+    "instruction": "Quelle question de recherche cet auteur se pose-t-il ? Quel cadre théorique mobilise-t-il ?",
+    "questions": [
+     "Quelle est la question de recherche ou l’hypothèse ?",
+     "Quel cadre théorique et quels concepts sont utilisés ?",
+     "Quelle méthode, quel terrain, quel échantillon ?"
+    ]
+   },
+   {
+    "title": "Lire et surligner",
+    "instruction": "Surligne la problématique, les concepts, la méthode, les résultats principaux et les limites annoncées.",
+    "questions": []
+   },
+   {
+    "title": "Reformuler",
+    "instruction": "Reformule la démarche : question, méthode, résultats, interprétation. Dis comment l’auteur passe des données à sa conclusion.",
+    "questions": []
+   },
+   {
+    "title": "Critiquer",
+    "instruction": "Évalue la validité : l’échantillon, la méthode et les données soutiennent-ils les conclusions ? Quelles interprétations concurrentes existent ?",
+    "questions": [
+     "L’échantillon est-il adapté, et les résultats généralisables ?",
+     "Les conclusions dépassent-elles ce que les données permettent de dire ?",
+     "Quels biais (de l’auteur, de la méthode, du terrain) faut-il garder en tête ?"
+    ]
+   },
+   {
+    "title": "Fiche finale",
+    "instruction": "Rédige une fiche de lecture : problématique, cadre théorique, méthode, résultats, apports et limites.",
+    "questions": []
+   }
+  ]
+ },
+ "economie": {
+  "label": "Économie et gestion",
+  "steps": [
+   {
+    "title": "Préparer",
+    "instruction": "De quel type de document s’agit-il (article académique, rapport, note de conjoncture) et quelle question économique traite-t-il ?",
+    "questions": [
+     "Quelle est la question économique posée, et quel est le mécanisme étudié ?",
+     "Quelles données et quelle méthode (modèle, économétrie, étude de cas) ?",
+     "Quels sont les principaux résultats annoncés ?"
+    ]
+   },
+   {
+    "title": "Lire et surligner",
+    "instruction": "Surligne la question, le modèle ou les hypothèses, les données, les résultats et les chiffres clés avec leur unité et leur période.",
+    "questions": []
+   },
+   {
+    "title": "Reformuler",
+    "instruction": "Reformule le raisonnement en quelques phrases : qu’est-ce qui cause quoi, et selon quelle logique ?",
+    "questions": []
+   },
+   {
+    "title": "Critiquer",
+    "instruction": "Distingue corrélation et causalité. Les hypothèses sont-elles réalistes ? Les résultats tiennent-ils hors de l’échantillon étudié ?",
+    "questions": [
+     "La relation est-elle causale ou seulement une corrélation ?",
+     "Les hypothèses du modèle sont-elles réalistes ?",
+     "Les chiffres sont-ils sourcés, comparables et à jour ?"
+    ]
+   },
+   {
+    "title": "Fiche finale",
+    "instruction": "Garde l’essentiel : question, hypothèses, données, résultats, limites. Vérifie chaque chiffre cité à sa source.",
+    "questions": []
+   }
+  ]
+ },
+ "sciences": {
+  "label": "Sciences et ingénierie",
+  "steps": [
+   {
+    "title": "Préparer",
+    "instruction": "Que cherches-tu dans cet article : l’état de l’art, une méthode, un résultat ? Lis d’abord le titre, le résumé et la conclusion.",
+    "questions": [
+     "Quel problème l’article traite-t-il, et pourquoi est-il important ?",
+     "Quelle est la contribution annoncée ?",
+     "Quelles notions préalables te manquent pour le lire ?"
+    ]
+   },
+   {
+    "title": "Lire et surligner",
+    "instruction": "Lis en trois passes : vue d’ensemble, structure et figures, puis détail. Surligne l’objectif, la méthode, les résultats et les limites.",
+    "questions": []
+   },
+   {
+    "title": "Reformuler",
+    "instruction": "Reformule la méthode et les résultats avec tes mots. Peux-tu refaire le raisonnement sans regarder ?",
+    "questions": []
+   },
+   {
+    "title": "Critiquer",
+    "instruction": "Les conclusions découlent-elles des résultats ? La méthode est-elle reproductible ? Les hypothèses et les limites sont-elles claires ?",
+    "questions": [
+     "Le protocole ou la méthode permettent-ils de reproduire les résultats ?",
+     "Les résultats sont-ils significatifs, et comparés à des références ?",
+     "Quelles hypothèses ou limites l’auteur ne discute-t-il pas ?"
+    ]
+   },
+   {
+    "title": "Fiche finale",
+    "instruction": "Rédige une fiche : problème, méthode, résultats, limites, ce que tu en retiens pour ton travail.",
+    "questions": []
+   }
+  ]
+ },
+ "sante": {
+  "label": "Santé et médecine",
+  "steps": [
+   {
+    "title": "Préparer",
+    "instruction": "Quelle question clinique te poses-tu ? Formule-la en patient, intervention, comparaison et résultat attendu.",
+    "questions": [
+     "Quelle est la population étudiée, l’intervention et la comparaison ?",
+     "Quel est le critère de jugement principal ?",
+     "De quel type d’étude s’agit-il (essai randomisé, cohorte, revue systématique) ?"
+    ]
+   },
+   {
+    "title": "Lire et surligner",
+    "instruction": "Surligne la population, la méthode, la taille de l’échantillon, les résultats principaux avec leur intervalle de confiance, et les limites.",
+    "questions": []
+   },
+   {
+    "title": "Reformuler",
+    "instruction": "Reformule les résultats en langage simple : qui a été étudié, qu’a-t-on mesuré, qu’a-t-on trouvé ?",
+    "questions": []
+   },
+   {
+    "title": "Critiquer",
+    "instruction": "Évalue la validité : biais de sélection, de mesure, de suivi, conflits d’intérêts. Le niveau de preuve est-il suffisant pour changer une pratique ?",
+    "questions": [
+     "Le niveau de preuve de ce type d’étude est-il suffisant ?",
+     "L’échantillon est-il assez grand et représentatif de tes patients ?",
+     "Y a-t-il des biais ou des conflits d’intérêts déclarés ?"
+    ]
+   },
+   {
+    "title": "Fiche finale",
+    "instruction": "Rédige une synthèse : question, étude, résultats, validité, applicabilité à ta pratique.",
+    "questions": []
+   }
+  ]
+ },
+ "enseignement": {
+  "label": "Enseignement",
+  "steps": [
+   {
+    "title": "Préparer",
+    "instruction": "Quel est ton objectif pédagogique ? Ce document sert-il à préparer un cours, à te former, ou à le donner à lire à tes élèves ?",
+    "questions": [
+     "Quel objectif d’apprentissage vises-tu avec ce document ?",
+     "Quel est le niveau de tes élèves ou étudiants ?",
+     "Quelles notions faut-il avoir comprises avant de le lire ?"
+    ]
+   },
+   {
+    "title": "Lire et surligner",
+    "instruction": "Surligne les notions clés, les exemples utilisables en classe et les passages difficiles à expliquer.",
+    "questions": []
+   },
+   {
+    "title": "Reformuler",
+    "instruction": "Reformule chaque notion comme tu l’expliquerais à tes élèves, avec tes mots et un exemple.",
+    "questions": []
+   },
+   {
+    "title": "Adapter à ton public",
+    "instruction": "Ce document est-il adapté à ton public ? Quelles difficultés prévois-tu ? Quelle activité ou quelle question permettrait de vérifier la compréhension ?",
+    "questions": [
+     "Quel obstacle ce passage posera-t-il à tes élèves ?",
+     "Quel exemple ou quelle activité peux-tu en tirer ?",
+     "Comment vérifieras-tu que l’objectif est atteint ?"
+    ]
+   },
+   {
+    "title": "Fiche finale",
+    "instruction": "Prépare ta ressource : notions, exemples, questions à poser, passages à citer avec leurs références.",
+    "questions": []
+   }
+  ]
+ },
+ "recherche": {
+  "label": "Recherche",
+  "steps": [
+   {
+    "title": "Préparer",
+    "instruction": "Pourquoi lis-tu cet article : cartographier un champ, trouver une méthode, situer ta contribution ? Précise ton projet.",
+    "questions": [
+     "Quel est le lien entre ce document et ta question de recherche ?",
+     "Quelle contribution l’article revendique-t-il ?",
+     "Dans quel débat de la littérature s’inscrit-il ?"
+    ]
+   },
+   {
+    "title": "Lire et surligner",
+    "instruction": "Surligne la question, la contribution, la méthode, les résultats et les références utiles à suivre.",
+    "questions": []
+   },
+   {
+    "title": "Reformuler",
+    "instruction": "Reformule la contribution en une phrase, puis la méthode et les résultats avec tes mots.",
+    "questions": []
+   },
+   {
+    "title": "Critiquer",
+    "instruction": "Compare avec le reste de la littérature : quels accords, quels désaccords ? Quelles limites de méthode ? Que reste-t-il à démontrer ?",
+    "questions": [
+     "La contribution est-elle réellement nouvelle par rapport à la littérature ?",
+     "La méthode et les données soutiennent-elles les conclusions ?",
+     "Qu’est-ce que cela change pour ta propre recherche ?"
+    ]
+   },
+   {
+    "title": "Fiche finale",
+    "instruction": "Alimente ta revue de littérature : contribution, méthode, résultats, limites, citations avec leurs pages.",
+    "questions": []
+   }
+  ]
+ }
+}
